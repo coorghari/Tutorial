@@ -279,19 +279,6 @@ function findMaxSumInArrayShort(arr) {
     return maxSum;
 }
 
-console.log(findMaxSumInArrayShort([-1, 2, 3, -9, 11]));
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
+
 console.log("Hello");
 //http://127.0.0.1:5500/
