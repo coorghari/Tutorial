@@ -1,4 +1,4 @@
-//const strings = ['a', 'b', 'c', 'd'];
+const strings = ['a', 'b', 'c', 'd'];
 
 
 //console.log(strings[2]);
