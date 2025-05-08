@@ -1,24 +1,7 @@
 //const strings = ['a', 'b', 'c', 'd'];
 
 
-//console.log(strings[2]);
 
-//strings.push('e'); //O(1)
-//strings.pop(); //O(1)
-
-//strings.unshift('x'); //O(n);
-//strings.shift(); //O(n);
-
-//strings.splice(2, 0, 'r');//O(n);
-//console.log(strings);
-
-// Two Types of ARRAY 1) Static : fix in size, Dynamic Array;
-
-//Refernce Type 
-///let object1 = { value: 10 };
-//let object2 = object1;
-
-//let object3 = { value: 10 };
 
 //console.log(object1 === object2);
 //console.log(object1 == object2);
