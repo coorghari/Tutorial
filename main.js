@@ -284,14 +284,4 @@ console.log("Hello");
 console.log("Hello");
 console.log("Hello");
 console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
 //http://127.0.0.1:5500/
