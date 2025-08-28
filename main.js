@@ -1,4 +1,4 @@
-//const strings = ['a', 'b', 'c', 'd'];
+const strings = ['a', 'b', 'c', 'd'];
 
 
 //console.log(strings[2]);
@@ -282,16 +282,5 @@ function findMaxSumInArrayShort(arr) {
 console.log(findMaxSumInArrayShort([-1, 2, 3, -9, 11]));
 console.log("Hello");
 console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
+
 //http://127.0.0.1:5500/
